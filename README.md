@@ -8,15 +8,15 @@
 
 - 👯 I’m looking to collaborate on **Open source project.**
 
-- 👨‍💻 All of my projects are available at [[Coming soon]]([Coming soon])
+- 👨‍💻 All of my projects are available at [[Coming soon]]
 
-- 📝 I regularly write articles on [[Coming soon]]([Coming soon])
+- 📝 I regularly write articles on [[Coming soon]]
 
 - 💬 Ask me about **Unity, Blender.**
 
 - 📫 How to reach me **tretaeduction20@gmail.com**
 
-- 📄 Know about my experiences [[Coming soon]]([Coming soon])
+- 📄 Know about my experiences [[Coming soon]]
 
 - ⚡ Fun fact **space explorer and part time gamer.**
 
