@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [[Coming soon]]
 
-- 💬 Ask me about **Unity, Blender.**
+- 💬 Ask me about **graphics designing**
 
 - 📫 How to reach me **tretaeduction20@gmail.com**
 
