@@ -8,15 +8,15 @@
 
 - 👯 I’m looking to collaborate on **Open source project.**
 
-- 👨‍💻 All of my projects are available at [https://piyushkumar1307.github.io/tretacompany.github.io/biodata.html]
+- 👨‍💻 All of my projects are available at [coming soon]
 
-- 📝 I regularly write articles on [https://piyushkumar1307.github.io/tretacompany.github.io/biodata.html]
+- 📝 I regularly write articles on [coming soon]
 
 - 💬 Ask me about **graphics designing**
 
 - 📫 How to reach me **tretaeduction20@gmail.com**
 
-- 📄 Know about my experiences [https://piyushkumar1307.github.io/tretacompany.github.io/biodata.html]
+- 📄 Know about my experiences [coming soon]
 
 - ⚡ Fun fact **space explorer and part time gamer.**
 
