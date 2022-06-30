@@ -24,7 +24,7 @@
 <p align="left">
 
 <a href="https://www.instagram.com/iamyour_pusssy_cat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="treta_education" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/treta education" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="treta education" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCfWXRT72MvZ3i2UAu9T99ng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="treta education" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
