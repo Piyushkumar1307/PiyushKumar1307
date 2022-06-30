@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Open source project.**
 
-- 👨‍💻 All of my projects are available at [coming soon]
+- 👨‍💻 All of my projects are available at [https://github.com/Piyushkumar1307?tab=repositories]
 
 - 📝 I regularly write articles on [coming soon]
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **tretaeduction20@gmail.com**
 
-- 📄 Know about my experiences [coming soon]
+- 📄 Know about my experiences [https://github.com/Piyushkumar1307]
 
 - ⚡ Fun fact **space explorer and part time gamer.**
 
