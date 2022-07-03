@@ -1,5 +1,5 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/pdfview-india.appspot.com/o/github%20profile%2FHD-wallpaper-3d-brain-metal-arm-modern-technologies-artificial-intelligence-robots-brain-in-hand.jpg?alt=media&token=be16dcdd-7fc8-4e4c-82aa-e72cf2f68078)]()
-</a><h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Piyush</h1>
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/pdfview-india.appspot.com/o/github%20profile%2F5.png?alt=media&token=9268fdf6-aabc-4d6f-86ca-dbbbee6e9f5b)]()
+</a><h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Piyush</h1>
 <h3 align="center">A passionate Game developer and graphics designer from India</h3>
 
 - 🔭 I’m currently working on **survival game in unity.**
