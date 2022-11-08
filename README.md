@@ -1,10 +1,10 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/pdfview-india.appspot.com/o/github%20profile%2F5.png?alt=media&token=9268fdf6-aabc-4d6f-86ca-dbbbee6e9f5b)]()
 </a><h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Piyush</h1>
-<h3 align="center">A passionate Game developer and graphics designer from India</h3>
+<h3 align="center">A passionate App/Game developer and graphics designer from India</h3>
 
-- 🔭 I’m currently working on **survival game in unity.**
+- 🔭 I’m currently working on **android application.**
 
-- 🌱 I’m currently learning **Unity , Blender, java.**
+- 🌱 I’m currently learning **app, fullstack development **
 
 - 👯 I’m looking to collaborate on **Open source project.**
 
@@ -23,8 +23,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.instagram.com/iamyour_pusssy_cat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="treta_education" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCfWXRT72MvZ3i2UAu9T99ng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="treta education" height="30" width="40" /></a>
+<a href="https://www.instagram.com/3.14_ush/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="treta_education" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/piyush-kumar-42a745172/" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/pdfview-india.appspot.com/o/github%20profile%2Fdownload-removebg-preview.png?alt=media&token=4f3d4b6c-ef94-4463-9720-f24ccbbeacb5" alt="linkdein" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
