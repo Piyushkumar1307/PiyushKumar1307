@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **tretaeduction20@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Piyushkumar1307]
+- 📄 Know about my experiences [https://www.linkedin.com/in/piyush-kumar-42a745172/]
 
 - ⚡ Fun fact **space explorer and part time gamer.**
 
