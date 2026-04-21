@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=PIYUSH%20KUMAR&fontColor=c9e8ff&fontSize=52&fontAlignY=55&desc=Game%20Developer%20%7C%20XR%20Engineer%20%7C%20Reality%20Architect&descAlignY=75&descSize=15&color=0:020917,30:0a1628,70:0d2240,100:040d1a&stroke=4fc3f7&strokeWidth=1"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=PIYUSH%20KUMAR&fontColor=c9e8ff&fontSize=52&fontAlignY=55&desc=Software%20Developer%20%7C%20XR%20Engineer%20%7C%20Reality%20Architect&descAlignY=75&descSize=15&color=0:020917,30:0a1628,70:0d2240,100:040d1a&stroke=4fc3f7&strokeWidth=1"/>
 </p>
 
 <p align="center">
