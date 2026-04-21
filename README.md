@@ -15,9 +15,9 @@
   &nbsp;
   <img src="https://img.shields.io/badge/ENGINE-UNITY-4fc3f7?style=for-the-badge&labelColor=050f1c"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/DIVISION-XR_SYSTEMS-b39ddb?style=for-the-badge&labelColor=050f1c"/>
+  <img src="https://img.shields.io/badge/DIVISION-Software_SYSTEMS-b39ddb?style=for-the-badge&labelColor=050f1c"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/CLASS-GAME_DEV-ffb74d?style=for-the-badge&labelColor=050f1c"/>
+  <img src="https://img.shields.io/badge/CLASS-Software_DEV-ffb74d?style=for-the-badge&labelColor=050f1c"/>
 </p>
 
 ---
